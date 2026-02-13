@@ -3551,7 +3551,7 @@
 	)
 	(text "Default Pos: SW1 UP (Connected 1-2), Gate of Q4 = LOW\n"
 		(exclude_from_sim no)
-		(at 188.722 123.698 0)
+		(at 172.212 119.888 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3597,7 +3597,7 @@
 		(uuid "20a47d4b-4190-448b-8ab1-6d9743c58c43")
 	)
 	(junction
-		(at 39.37 193.04)
+		(at 39.37 191.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23ded532-8fde-4ff7-b6a2-38684ca86bc0")
@@ -3609,7 +3609,7 @@
 		(uuid "27df63c1-6a29-4779-8545-a80fa7530f1c")
 	)
 	(junction
-		(at 30.48 172.72)
+		(at 30.48 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e94a2d8-6a71-4069-9d7c-feb284675f46")
@@ -3633,19 +3633,19 @@
 		(uuid "4c767d74-a63d-446c-b866-d4b465585f3b")
 	)
 	(junction
-		(at 195.58 160.02)
+		(at 179.07 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e290ad7-0629-43a8-9008-39a91bad636a")
 	)
 	(junction
-		(at 46.99 182.88)
+		(at 46.99 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "535ab7c5-c537-4d9d-bea3-295653bf013a")
 	)
 	(junction
-		(at 195.58 132.08)
+		(at 179.07 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c7d037c-1a90-4fee-a1f6-c62e2fcfbf96")
@@ -3669,7 +3669,7 @@
 		(uuid "65e7272e-1534-41bd-b983-69eaec92e7c6")
 	)
 	(junction
-		(at 39.37 172.72)
+		(at 39.37 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "68ea0759-86ca-4bf3-8b53-da87ee8491f1")
@@ -3687,7 +3687,7 @@
 		(uuid "79135513-4306-4868-b6c0-514334c5de71")
 	)
 	(junction
-		(at 193.04 132.08)
+		(at 176.53 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "860582d2-8546-4e8f-8879-bdf9d93b2de3")
@@ -3705,13 +3705,13 @@
 		(uuid "8779dd6e-9641-4a65-b8b9-3f83d5d9a495")
 	)
 	(junction
-		(at 233.68 149.86)
+		(at 217.17 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87b9b7b7-15df-4ab2-b1b9-238ec3e78954")
 	)
 	(junction
-		(at 30.48 193.04)
+		(at 30.48 191.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a5b81fc-a20f-4ec7-bef6-b3166b66832c")
@@ -3729,19 +3729,19 @@
 		(uuid "92100097-dcc2-4153-abce-62ff9337328c")
 	)
 	(junction
-		(at 193.04 160.02)
+		(at 176.53 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9829e894-cf5b-4b9d-ac3a-ae8a2fa2c8db")
 	)
 	(junction
-		(at 224.79 149.86)
+		(at 208.28 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a35630d8-2b0e-4738-9eab-d04243b3ffd8")
 	)
 	(junction
-		(at 39.37 182.88)
+		(at 39.37 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a9a6dc7d-27db-49c4-9159-b4a6ae8f1a26")
@@ -3759,7 +3759,7 @@
 		(uuid "bee993db-1d99-486c-908f-dfb614a913ae")
 	)
 	(junction
-		(at 62.23 193.04)
+		(at 62.23 191.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c84111fa-57c8-49ec-a6b3-45df3b7c213a")
@@ -3771,25 +3771,25 @@
 		(uuid "d392ca36-8ac9-4f54-b213-5fc6a401de24")
 	)
 	(junction
-		(at 62.23 172.72)
+		(at 62.23 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3ed1796-75b9-4ba0-b255-09021432b428")
 	)
 	(junction
-		(at 185.42 132.08)
+		(at 168.91 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db29c527-5361-41b5-a74b-d696bcb5eb84")
 	)
 	(junction
-		(at 224.79 132.08)
+		(at 208.28 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbfbe516-ca34-4a1a-b06d-bb11438bd6cd")
 	)
 	(junction
-		(at 224.79 157.48)
+		(at 208.28 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e223885e-38ef-4754-89d3-30d5e527aecb")
@@ -3844,7 +3844,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 147.32) (xy 224.79 149.86)
+			(xy 208.28 143.51) (xy 208.28 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3884,7 +3884,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 157.48) (xy 226.06 157.48)
+			(xy 208.28 153.67) (xy 209.55 153.67)
 		)
 		(stroke
 			(width 0)
@@ -3914,7 +3914,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 181.61) (xy 46.99 182.88)
+			(xy 46.99 180.34) (xy 46.99 181.61)
 		)
 		(stroke
 			(width 0)
@@ -3924,17 +3924,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 132.08) (xy 185.42 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f110eef-2d81-44b0-8111-7b0f022deee6")
-	)
-	(wire
-		(pts
-			(xy 39.37 171.45) (xy 39.37 172.72)
+			(xy 39.37 170.18) (xy 39.37 171.45)
 		)
 		(stroke
 			(width 0)
@@ -3944,7 +3934,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 179.07) (xy 69.85 172.72)
+			(xy 69.85 177.8) (xy 69.85 171.45)
 		)
 		(stroke
 			(width 0)
@@ -3974,7 +3964,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 193.04) (xy 39.37 193.04)
+			(xy 46.99 191.77) (xy 39.37 191.77)
 		)
 		(stroke
 			(width 0)
@@ -3984,7 +3974,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 132.08) (xy 193.04 133.35)
+			(xy 176.53 128.27) (xy 176.53 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3994,7 +3984,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 133.35) (xy 195.58 132.08)
+			(xy 179.07 129.54) (xy 179.07 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4014,7 +4004,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 182.88) (xy 39.37 184.15)
+			(xy 39.37 181.61) (xy 39.37 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4034,7 +4024,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 191.77) (xy 39.37 193.04)
+			(xy 39.37 190.5) (xy 39.37 191.77)
 		)
 		(stroke
 			(width 0)
@@ -4054,7 +4044,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 132.08) (xy 193.04 132.08)
+			(xy 168.91 128.27) (xy 176.53 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4074,7 +4064,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 179.07) (xy 30.48 172.72)
+			(xy 30.48 177.8) (xy 30.48 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4094,7 +4084,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 147.32) (xy 233.68 149.86)
+			(xy 217.17 143.51) (xy 217.17 146.05)
 		)
 		(stroke
 			(width 0)
@@ -4104,7 +4094,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 160.02) (xy 213.36 160.02)
+			(xy 195.58 156.21) (xy 196.85 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4114,7 +4104,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 181.61) (xy 39.37 182.88)
+			(xy 39.37 180.34) (xy 39.37 181.61)
 		)
 		(stroke
 			(width 0)
@@ -4124,23 +4114,13 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 160.02) (xy 195.58 160.02)
+			(xy 176.53 156.21) (xy 179.07 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "36506ac2-183e-4d38-a6d5-e958b6d7c877")
-	)
-	(wire
-		(pts
-			(xy 175.26 132.08) (xy 176.53 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37e67715-be32-434f-a7fb-662a0300a64e")
 	)
 	(wire
 		(pts
@@ -4154,7 +4134,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 193.04) (xy 62.23 194.31)
+			(xy 62.23 191.77) (xy 62.23 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4164,7 +4144,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 172.72) (xy 29.21 172.72)
+			(xy 30.48 171.45) (xy 29.21 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4174,7 +4154,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 149.86) (xy 224.79 157.48)
+			(xy 208.28 146.05) (xy 208.28 153.67)
 		)
 		(stroke
 			(width 0)
@@ -4194,7 +4174,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 132.08) (xy 195.58 132.08)
+			(xy 176.53 128.27) (xy 179.07 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4204,7 +4184,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 171.45) (xy 22.86 172.72)
+			(xy 22.86 170.18) (xy 22.86 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4224,7 +4204,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 149.86) (xy 233.68 152.4)
+			(xy 217.17 146.05) (xy 217.17 148.59)
 		)
 		(stroke
 			(width 0)
@@ -4234,7 +4214,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 173.99) (xy 39.37 172.72)
+			(xy 39.37 172.72) (xy 39.37 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4244,7 +4224,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 132.08) (xy 195.58 132.08)
+			(xy 208.28 128.27) (xy 179.07 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4264,7 +4244,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 132.08) (xy 224.79 139.7)
+			(xy 208.28 128.27) (xy 208.28 135.89)
 		)
 		(stroke
 			(width 0)
@@ -4284,7 +4264,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 149.86) (xy 226.06 149.86)
+			(xy 208.28 146.05) (xy 209.55 146.05)
 		)
 		(stroke
 			(width 0)
@@ -4294,7 +4274,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 193.04) (xy 30.48 194.31)
+			(xy 30.48 191.77) (xy 30.48 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4324,7 +4304,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 172.72) (xy 62.23 175.26)
+			(xy 62.23 171.45) (xy 62.23 173.99)
 		)
 		(stroke
 			(width 0)
@@ -4364,7 +4344,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 161.29) (xy 212.09 160.02)
+			(xy 195.58 157.48) (xy 195.58 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4394,7 +4374,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 193.04) (xy 62.23 190.5)
+			(xy 62.23 191.77) (xy 62.23 189.23)
 		)
 		(stroke
 			(width 0)
@@ -4404,7 +4384,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 191.77) (xy 46.99 193.04)
+			(xy 46.99 190.5) (xy 46.99 191.77)
 		)
 		(stroke
 			(width 0)
@@ -4454,7 +4434,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 193.04) (xy 69.85 193.04)
+			(xy 62.23 191.77) (xy 69.85 191.77)
 		)
 		(stroke
 			(width 0)
@@ -4474,7 +4454,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 171.45) (xy 62.23 172.72)
+			(xy 62.23 170.18) (xy 62.23 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4564,7 +4544,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 158.75) (xy 195.58 160.02)
+			(xy 179.07 154.94) (xy 179.07 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4614,7 +4594,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 139.7) (xy 233.68 132.08)
+			(xy 217.17 135.89) (xy 217.17 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4674,7 +4654,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 193.04) (xy 30.48 193.04)
+			(xy 39.37 191.77) (xy 30.48 191.77)
 		)
 		(stroke
 			(width 0)
@@ -4684,7 +4664,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 172.72) (xy 24.13 172.72)
+			(xy 22.86 171.45) (xy 24.13 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4694,7 +4674,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 158.75) (xy 193.04 160.02)
+			(xy 176.53 154.94) (xy 176.53 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4724,7 +4704,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 132.08) (xy 185.42 142.24)
+			(xy 168.91 128.27) (xy 168.91 138.43)
 		)
 		(stroke
 			(width 0)
@@ -4744,7 +4724,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 184.15) (xy 46.99 182.88)
+			(xy 46.99 182.88) (xy 46.99 181.61)
 		)
 		(stroke
 			(width 0)
@@ -4774,7 +4754,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 132.08) (xy 224.79 132.08)
+			(xy 217.17 128.27) (xy 208.28 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4794,7 +4774,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 182.88) (xy 46.99 182.88)
+			(xy 39.37 181.61) (xy 46.99 181.61)
 		)
 		(stroke
 			(width 0)
@@ -4824,7 +4804,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 186.69) (xy 30.48 193.04)
+			(xy 30.48 185.42) (xy 30.48 191.77)
 		)
 		(stroke
 			(width 0)
@@ -4944,7 +4924,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 172.72) (xy 62.23 172.72)
+			(xy 69.85 171.45) (xy 62.23 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4974,7 +4954,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 157.48) (xy 224.79 157.48)
+			(xy 207.01 153.67) (xy 208.28 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5034,7 +5014,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 149.86) (xy 234.95 149.86)
+			(xy 217.17 146.05) (xy 218.44 146.05)
 		)
 		(stroke
 			(width 0)
@@ -5044,7 +5024,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 186.69) (xy 69.85 193.04)
+			(xy 69.85 185.42) (xy 69.85 191.77)
 		)
 		(stroke
 			(width 0)
@@ -5114,7 +5094,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 149.86) (xy 185.42 160.02)
+			(xy 168.91 146.05) (xy 168.91 156.21)
 		)
 		(stroke
 			(width 0)
@@ -5134,7 +5114,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 160.02) (xy 195.58 161.29)
+			(xy 179.07 156.21) (xy 179.07 157.48)
 		)
 		(stroke
 			(width 0)
@@ -5204,7 +5184,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 130.81) (xy 175.26 132.08)
+			(xy 168.91 127) (xy 168.91 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5224,7 +5204,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 160.02) (xy 193.04 160.02)
+			(xy 168.91 156.21) (xy 176.53 156.21)
 		)
 		(stroke
 			(width 0)
@@ -5254,7 +5234,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 172.72) (xy 39.37 172.72)
+			(xy 30.48 171.45) (xy 39.37 171.45)
 		)
 		(stroke
 			(width 0)
@@ -5292,8 +5272,28 @@
 		)
 		(uuid "fb15c601-d942-43e3-ab2b-822804a61254")
 	)
+	(label "Q1G"
+		(at 127 17.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11fa1bc3-e022-4f7c-8567-0993641e6a7b")
+	)
+	(label "Q1D"
+		(at 95.25 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2005cfb7-3608-407f-adb7-addb7af6d674")
+	)
 	(label "4.5V"
-		(at 46.99 181.61 0)
+		(at 46.99 180.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5303,7 +5303,7 @@
 		(uuid "2fbba7c1-6377-4c9b-b28b-fd88dcd16255")
 	)
 	(label "9V"
-		(at 62.23 171.45 0)
+		(at 62.23 170.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5312,18 +5312,18 @@
 		)
 		(uuid "3c069ba6-dbaa-405b-b991-4d12a9be5668")
 	)
-	(label "V2"
-		(at 95.25 92.71 0)
+	(label "Q1D"
+		(at 127 38.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "68400221-1854-4397-83d2-118d0e7c2494")
+		(uuid "58d4c533-32ea-479e-90b5-8b5de63cad0d")
 	)
 	(label "9V"
-		(at 39.37 171.45 0)
+		(at 39.37 170.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5332,18 +5332,8 @@
 		)
 		(uuid "94099da7-2814-4c3c-8fe2-5ba72ec27a47")
 	)
-	(label "V2"
-		(at 127 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a7f449b2-4102-4f56-8007-22cb69335145")
-	)
 	(label "9V"
-		(at 175.26 130.81 180)
+		(at 168.91 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5352,18 +5342,8 @@
 		)
 		(uuid "afd4149a-7e6d-49b1-8838-875d85dcabdc")
 	)
-	(label "V1"
-		(at 127 17.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "badbacd0-1291-491f-b65e-c9da418208e2")
-	)
-	(label "V1"
-		(at 226.06 149.86 0)
+	(label "Q1G"
+		(at 209.55 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5382,8 +5362,8 @@
 		)
 		(uuid "de053fdd-270f-4f99-a789-eb8a0faa5db0")
 	)
-	(label "V2"
-		(at 234.95 149.86 0)
+	(label "Q1D"
+		(at 218.44 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5425,7 +5405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "013b81f5-0bcb-4588-8571-cd116d7bfebc")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR06"
 			(at 102.87 93.98 0)
 			(effects
 				(font
@@ -5474,9 +5454,13 @@
 			(uuid "f571eb64-bf09-4289-b614-a69a130a3d55")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR09")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -5491,7 +5475,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01f5c1b5-466c-41d6-93b9-4a12c2ee3dc8")
-		(property "Reference" "C7"
+		(property "Reference" "C4"
 			(at 85.598 72.644 0)
 			(effects
 				(font
@@ -5543,9 +5527,13 @@
 			(uuid "16558db8-a1cf-4cf3-b34e-29f306552b2a")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C7")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -5562,7 +5550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0321ec0e-7d1e-4075-a568-c70ace3dc881")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR08"
 			(at 163.83 101.6 0)
 			(effects
 				(font
@@ -5611,78 +5599,13 @@
 			(uuid "f96880d7-27d7-4935-8fd8-ce009dee19ed")
 		)
 		(instances
-			(project ""
-				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR011")
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
 					(unit 1)
 				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 180.34 132.08 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0b130289-6aa2-4755-ace1-cfeec84935f2")
-		(property "Reference" "D6"
-			(at 180.34 134.874 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BAT41"
-			(at 180.6575 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
-			(at 180.34 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 180.34 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 180.34 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c019833d-3928-48c2-94e9-c94ee30143fd")
-		)
-		(pin "2"
-			(uuid "e821588a-f30a-4773-9037-4b07f634c6b6")
-		)
-		(instances
-			(project ""
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "D6")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -5697,7 +5620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0bb0601e-90b9-4d91-b9d6-7682b6428367")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 58.42 90.17 90)
 			(effects
 				(font
@@ -5749,9 +5672,13 @@
 			(uuid "54684fa4-3e01-4f7a-991f-2f7bf8ecbc8b")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -5768,7 +5695,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "166fbb7c-cb28-40b7-a112-1007082646d0")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR03"
 			(at 59.69 101.6 0)
 			(effects
 				(font
@@ -5817,9 +5744,13 @@
 			(uuid "95950899-da3d-4c18-91a3-6a5a8b1d9807")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR06")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -5835,7 +5766,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "266d9332-8fc2-4fb7-b77a-5c31da878bd4")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 114.046 73.406 0)
 			(effects
 				(font
@@ -5903,9 +5834,13 @@
 			(uuid "c47e11c5-1da4-4a36-99e7-2a599a79909a")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "U?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -5921,7 +5856,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "284e0997-d047-4043-9b0b-55dc693d8bdc")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 121.92 50.546 0)
 			(effects
 				(font
@@ -5972,9 +5907,13 @@
 			(uuid "0191268c-91bf-44ee-9415-ff677d649952")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "D?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -5984,13 +5923,13 @@
 		(lib_id "Analog_Switch:DG412xY")
 		(at 125.73 24.13 0)
 		(mirror x)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2c1082a6-b03e-4ff3-862c-a7119a417974")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 125.73 27.94 0)
 			(effects
 				(font
@@ -6084,10 +6023,14 @@
 			(uuid "10cb8820-2c12-4d0c-8917-d2ad8ccb39fb")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "U?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "U2")
-					(unit 2)
+					(reference "U3")
+					(unit 1)
 				)
 			)
 		)
@@ -6158,7 +6101,11 @@
 			(uuid "0f854304-adc1-4699-81e6-bdb6d40945e0")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "Q?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "Q3")
 					(unit 1)
@@ -6168,15 +6115,15 @@
 	)
 	(symbol
 		(lib_id "power:+9V")
-		(at 22.86 171.45 0)
+		(at 22.86 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "34a2f8a7-2b9a-4756-80a4-97faebb2cf74")
-		(property "Reference" "#PWR01"
-			(at 22.86 175.26 0)
+		(property "Reference" "#PWR013"
+			(at 22.86 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6185,7 +6132,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 22.86 167.64 0)
+			(at 22.86 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6193,7 +6140,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 171.45 0)
+			(at 22.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6202,7 +6149,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 171.45 0)
+			(at 22.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6211,7 +6158,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 22.86 171.45 0)
+			(at 22.86 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6223,9 +6170,13 @@
 			(uuid "42b7faaf-59f9-4842-82de-f9c7e1dbfa6b")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR01")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -6233,15 +6184,15 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 233.68 162.56 0)
+		(at 217.17 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "378c42c7-bee3-4208-b5c6-57bbd8e6db04")
-		(property "Reference" "#PWR020"
-			(at 233.68 168.91 0)
+		(property "Reference" "#PWR012"
+			(at 217.17 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6250,7 +6201,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 233.68 166.37 0)
+			(at 217.17 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6259,7 +6210,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 233.68 162.56 0)
+			(at 217.17 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,7 +6219,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 233.68 162.56 0)
+			(at 217.17 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,7 +6228,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 233.68 162.56 0)
+			(at 217.17 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6289,9 +6240,13 @@
 			(uuid "2d7508eb-e619-4e7d-b18d-910d57d87fc7")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR020")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -6306,7 +6261,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3806fbc5-2c48-4ca0-9e0b-a75624c363a5")
-		(property "Reference" "C12"
+		(property "Reference" "C9"
 			(at 172.72 62.484 90)
 			(effects
 				(font
@@ -6356,9 +6311,13 @@
 			(uuid "cd6a46cc-32b1-4493-9c26-71b19507905e")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C12")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -6373,7 +6332,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c44ce1a-1251-493e-954e-39d916debab5")
-		(property "Reference" "C13"
+		(property "Reference" "C10"
 			(at 186.69 71.374 90)
 			(effects
 				(font
@@ -6423,9 +6382,13 @@
 			(uuid "8843d9f4-03fa-483f-bf2e-2043716e1d18")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C13")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -6493,7 +6456,11 @@
 			(uuid "fdc6aa98-64b8-4e4b-b756-ff4d14bce5b8")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "RV?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "RV3")
 					(unit 1)
@@ -6510,7 +6477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ef42037-a205-4f6d-bde0-fd7d688fd36c")
-		(property "Reference" "C6"
+		(property "Reference" "C3"
 			(at 66.04 76.454 90)
 			(effects
 				(font
@@ -6560,9 +6527,13 @@
 			(uuid "07897e44-508c-4a2e-8715-b8d09dbcb84b")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C6")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6630,7 +6601,11 @@
 			(uuid "0f97dbd0-d01f-4317-8316-6808555a42f9")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "RV?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "RV2")
 					(unit 1)
@@ -6697,7 +6672,11 @@
 			(uuid "d0777b32-aa4d-4a95-a6f3-e021a9ff8f0f")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R7")
 					(unit 1)
@@ -6707,15 +6686,15 @@
 	)
 	(symbol
 		(lib_id "BCA Symbol Library:CP_Power")
-		(at 30.48 182.88 0)
+		(at 30.48 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "5a637db5-c480-499f-85c4-0c0ed4a6fb29")
-		(property "Reference" "C36"
-			(at 31.242 180.34 0)
+		(property "Reference" "C12"
+			(at 31.242 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6724,7 +6703,7 @@
 			)
 		)
 		(property "Value" "100uF"
-			(at 31.242 185.928 0)
+			(at 31.242 184.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6733,7 +6712,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:CP_Radial_D6.3mm_P2.50mm"
-			(at 30.48 193.04 0)
+			(at 30.48 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6742,7 +6721,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 182.88 0)
+			(at 30.48 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6751,7 +6730,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, footprint sized for power rails"
-			(at 30.48 182.88 0)
+			(at 30.48 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6766,9 +6745,13 @@
 			(uuid "325e072c-11ee-4f70-940a-532d01d60437")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C36")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -6776,7 +6759,7 @@
 	)
 	(symbol
 		(lib_id "Analog_Switch:DG412xY")
-		(at 193.04 146.05 0)
+		(at 176.53 142.24 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6784,8 +6767,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b8352b6-54fe-411c-9612-41c1c0abbdc6")
-		(property "Reference" "U2"
-			(at 200.66 144.7799 0)
+		(property "Reference" "U1"
+			(at 184.15 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6794,7 +6777,7 @@
 			)
 		)
 		(property "Value" "DG412xY"
-			(at 200.66 147.3199 0)
+			(at 184.15 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6803,7 +6786,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
-			(at 193.04 148.59 0)
+			(at 176.53 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6812,7 +6795,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/DG411-DG413.pdf"
-			(at 193.04 146.05 0)
+			(at 176.53 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6821,7 +6804,7 @@
 			)
 		)
 		(property "Description" "Quad SPST Monolithic CMOS Analog Switches, normally OFF, 17Ohm Ron, SOIC-16"
-			(at 193.04 146.05 0)
+			(at 176.53 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6878,9 +6861,13 @@
 			(uuid "a09cc098-79df-44cb-a874-5784d81c5b7c")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "U?")
+					(unit 5)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "U2")
+					(reference "U1")
 					(unit 5)
 				)
 			)
@@ -6897,7 +6884,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6179a688-87f4-48b4-94c1-0bf2500f5e11")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR05"
 			(at 85.09 101.6 0)
 			(effects
 				(font
@@ -6946,9 +6933,13 @@
 			(uuid "6adfcfec-3996-4bc9-b471-27577c13ab86")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR08")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -6963,7 +6954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "61cd65c8-cd81-4d07-a831-1d47f00529a8")
-		(property "Reference" "C8"
+		(property "Reference" "C5"
 			(at 85.598 89.154 0)
 			(effects
 				(font
@@ -7015,9 +7006,13 @@
 			(uuid "3006fabe-9e83-45d1-a8ce-b0f02cfb958a")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C8")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -7025,7 +7020,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 30.48 194.31 0)
+		(at 30.48 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7033,16 +7028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "672af807-4e9f-4648-a1b2-4cebc905e9b8")
-		(property "Reference" "#PWR03"
-			(at 30.48 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "Earth"
+		(property "Reference" "#PWR014"
 			(at 30.48 199.39 0)
 			(effects
 				(font
@@ -7051,8 +7037,17 @@
 				(hide yes)
 			)
 		)
+		(property "Value" "Earth"
+			(at 30.48 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Footprint" ""
-			(at 30.48 194.31 0)
+			(at 30.48 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7061,7 +7056,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 194.31 0)
+			(at 30.48 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7070,7 +7065,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 30.48 194.31 0)
+			(at 30.48 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7082,9 +7077,13 @@
 			(uuid "86f04622-2423-411b-997d-10481b5c0c42")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR03")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -7151,7 +7150,11 @@
 			(uuid "a37c11e4-8bbe-4b0f-a3c8-3a910df7fed9")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R6")
 					(unit 1)
@@ -7168,7 +7171,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6aa7b275-674f-4a9f-bc26-eb1c5ff5e65a")
-		(property "Reference" "C9"
+		(property "Reference" "C6"
 			(at 111.506 66.548 90)
 			(effects
 				(font
@@ -7219,9 +7222,13 @@
 			(uuid "21f394e6-5460-427d-bf22-7134fb7657c1")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C9")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -7286,7 +7293,11 @@
 			(uuid "26f01ab3-9705-4e63-9519-3d8fd51cf5c8")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R13")
 					(unit 1)
@@ -7296,7 +7307,7 @@
 	)
 	(symbol
 		(lib_id "BCA Symbol Library:C_Ceramic")
-		(at 69.85 182.88 0)
+		(at 69.85 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7304,7 +7315,7 @@
 		(dnp no)
 		(uuid "81bc7a86-5cac-4943-8c2f-f069ba598f0e")
 		(property "Reference" "C14"
-			(at 70.612 180.34 0)
+			(at 70.612 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7313,7 +7324,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 70.612 185.166 0)
+			(at 70.612 183.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7322,7 +7333,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 70.8152 186.69 0)
+			(at 70.8152 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7331,7 +7342,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 182.88 0)
+			(at 69.85 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7340,7 +7351,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 69.85 182.88 0)
+			(at 69.85 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7355,7 +7366,11 @@
 			(uuid "28f538bd-1017-41b1-9fcc-a6af9a7902a6")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "C14")
 					(unit 1)
@@ -7374,7 +7389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88d6af82-febc-4a5a-be4d-c746a6ac399d")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR04"
 			(at 80.01 101.6 0)
 			(effects
 				(font
@@ -7423,9 +7438,13 @@
 			(uuid "2e6cd123-5d95-4033-8270-50d525e72ace")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR05")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -7490,7 +7509,11 @@
 			(uuid "5d7139cb-825a-4933-8e18-61198faff601")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R8")
 					(unit 1)
@@ -7508,7 +7531,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c23ec15-9a90-48e5-bf65-666406804db1")
-		(property "Reference" "U2"
+		(property "Reference" "U4"
 			(at 125.73 48.26 0)
 			(effects
 				(font
@@ -7602,9 +7625,13 @@
 			(uuid "1fb1ddc1-c55a-434b-8aa0-be8d64aab800")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "U?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "U2")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -7620,7 +7647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8dfaf4f6-aef4-434d-b44e-280c6906dc9f")
-		(property "Reference" "C10"
+		(property "Reference" "C7"
 			(at 154.178 89.154 0)
 			(effects
 				(font
@@ -7672,9 +7699,13 @@
 			(uuid "ad575640-1759-4718-b12c-f9087fa0bacb")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C10")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -7682,15 +7713,15 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 195.58 161.29 0)
+		(at 179.07 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "90171d73-d3f4-4683-b9f6-1514d4a6ad82")
-		(property "Reference" "#PWR016"
-			(at 195.58 167.64 0)
+		(property "Reference" "#PWR010"
+			(at 179.07 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7699,7 +7730,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 195.58 165.1 0)
+			(at 179.07 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7708,7 +7739,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 161.29 0)
+			(at 179.07 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7717,7 +7748,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 161.29 0)
+			(at 179.07 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7726,7 +7757,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 195.58 161.29 0)
+			(at 179.07 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7738,9 +7769,13 @@
 			(uuid "24bdf853-721f-4f1a-bff8-e689883eb21e")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR016")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -7748,7 +7783,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:2N7000")
-		(at 231.14 157.48 0)
+		(at 214.63 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7756,7 +7791,7 @@
 		(dnp no)
 		(uuid "9a8d27e3-93df-4f61-a83a-330d2fb59eb0")
 		(property "Reference" "Q4"
-			(at 230.632 154.178 0)
+			(at 214.122 150.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7765,7 +7800,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 231.14 161.29 0)
+			(at 214.63 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7774,7 +7809,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:TO-92_Inline_Wide"
-			(at 236.22 159.385 0)
+			(at 219.71 155.575 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7785,7 +7820,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/70226/70226.pdf"
-			(at 236.22 161.29 0)
+			(at 219.71 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7795,7 +7830,7 @@
 			)
 		)
 		(property "Description" "0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"
-			(at 231.14 157.48 0)
+			(at 214.63 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7813,7 +7848,11 @@
 			(uuid "915f02f3-be55-473e-b770-c4b4db52a93a")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "Q?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "Q4")
 					(unit 1)
@@ -7823,7 +7862,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 218.44 157.48 180)
+		(at 201.93 153.67 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7831,7 +7870,7 @@
 		(dnp no)
 		(uuid "a01c47ff-386b-42e6-951b-b5ece8170f81")
 		(property "Reference" "SW1"
-			(at 218.44 152.146 0)
+			(at 201.93 148.336 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7839,7 +7878,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 218.44 151.13 0)
+			(at 201.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7848,7 +7887,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:SW_Toggle_SPDT_SolderLug"
-			(at 218.44 157.48 0)
+			(at 201.93 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7857,7 +7896,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 218.44 149.86 0)
+			(at 201.93 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7866,7 +7905,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 218.44 157.48 0)
+			(at 201.93 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7884,7 +7923,11 @@
 			(uuid "9f2b3bd4-3723-4cea-a261-0d3ba875007a")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "SW?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "SW1")
 					(unit 1)
@@ -7956,7 +7999,11 @@
 			(uuid "5ed90d06-d9aa-4b28-b48e-a39f22f5b154")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "RV?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "RV4")
 					(unit 1)
@@ -8023,7 +8070,11 @@
 			(uuid "36350d01-641a-4c8c-810e-b10f60031f92")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R10")
 					(unit 1)
@@ -8033,7 +8084,7 @@
 	)
 	(symbol
 		(lib_id "BCA Symbol Library:C_Ceramic")
-		(at 185.42 146.05 0)
+		(at 168.91 142.24 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8041,8 +8092,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4673ab7-a964-4ff0-837f-d9ea880ea50c")
-		(property "Reference" "C4"
-			(at 184.658 143.51 0)
+		(property "Reference" "C11"
+			(at 168.148 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8051,7 +8102,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 184.658 148.336 0)
+			(at 168.148 144.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8060,7 +8111,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 184.4548 149.86 0)
+			(at 167.9448 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8069,7 +8120,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 146.05 0)
+			(at 168.91 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8078,7 +8129,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 185.42 146.05 0)
+			(at 168.91 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8093,9 +8144,13 @@
 			(uuid "f960c6b2-c710-457d-bc25-9197d086510d")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C4")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8160,7 +8215,11 @@
 			(uuid "d106b2a9-aafa-4e8a-a025-f7380e5e382b")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R9")
 					(unit 1)
@@ -8170,15 +8229,15 @@
 	)
 	(symbol
 		(lib_id "BCA Symbol Library:CP_Power")
-		(at 46.99 187.96 0)
+		(at 46.99 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ad4cb9ac-f1e8-4a8b-b52f-3d3c74f70ab2")
-		(property "Reference" "C37"
-			(at 47.752 185.42 0)
+		(property "Reference" "C13"
+			(at 47.752 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8187,7 +8246,7 @@
 			)
 		)
 		(property "Value" "100uF"
-			(at 47.752 191.008 0)
+			(at 47.752 189.738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8196,7 +8255,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:CP_Radial_D6.3mm_P2.50mm"
-			(at 46.99 198.12 0)
+			(at 46.99 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8205,7 +8264,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 187.96 0)
+			(at 46.99 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8214,7 +8273,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, footprint sized for power rails"
-			(at 46.99 187.96 0)
+			(at 46.99 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8229,9 +8288,13 @@
 			(uuid "eae064b3-d6be-46f6-967d-54084c4459f0")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C37")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -8247,7 +8310,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2e543d5-52a6-44d8-9c56-4cbddc987ba5")
-		(property "Reference" "D3"
+		(property "Reference" "D4"
 			(at 116.84 62.484 0)
 			(effects
 				(font
@@ -8298,9 +8361,13 @@
 			(uuid "ae2bea9e-e84d-4717-9324-58e4ec51e4f8")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "D?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "D3")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -8317,7 +8384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b88e3220-bd7e-447f-b3f9-838b12d80069")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR09"
 			(at 200.66 101.6 0)
 			(effects
 				(font
@@ -8366,9 +8433,13 @@
 			(uuid "ef93d3a0-3633-4b10-9973-a9f50d97c57c")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR012")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -8383,7 +8454,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3b1dde1-dfd6-4346-bdea-218644116e35")
-		(property "Reference" "R5"
+		(property "Reference" "R4"
 			(at 71.12 90.17 90)
 			(effects
 				(font
@@ -8435,9 +8506,13 @@
 			(uuid "b06e706f-1e1c-4590-b1e2-509804ef50ae")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "R5")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -8453,7 +8528,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c511b110-7c4d-4ba5-85b6-08619dc2eae4")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 111.76 50.546 0)
 			(effects
 				(font
@@ -8504,9 +8579,13 @@
 			(uuid "98427fe3-c880-405f-949b-ed189fab2007")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "D?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -8514,15 +8593,15 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:OPA2134")
-		(at 64.77 182.88 0)
+		(at 64.77 181.61 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c876e864-7a55-445c-9abc-c8b916fb40f8")
-		(property "Reference" "U1"
-			(at 60.198 182.88 90)
+		(property "Reference" "U2"
+			(at 60.198 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8530,7 +8609,7 @@
 			)
 		)
 		(property "Value" "OPA2134"
-			(at 64.516 183.134 90)
+			(at 64.516 181.864 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8538,7 +8617,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 64.77 182.88 0)
+			(at 64.77 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8547,7 +8626,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa134.pdf"
-			(at 64.77 182.88 0)
+			(at 64.77 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8556,7 +8635,7 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8"
-			(at 64.77 182.88 0)
+			(at 64.77 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8589,9 +8668,13 @@
 			(uuid "01f9fc26-6e0a-407b-a883-2bfea56129a3")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "U?")
+					(unit 3)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "U1")
+					(reference "U2")
 					(unit 3)
 				)
 			)
@@ -8599,15 +8682,15 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:R")
-		(at 39.37 187.96 90)
+		(at 39.37 186.69 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d03414b8-0d0d-405b-b58a-8a91e4794fe0")
-		(property "Reference" "R44"
-			(at 40.64 186.69 90)
+		(property "Reference" "R17"
+			(at 40.64 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8616,7 +8699,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 40.64 189.23 90)
+			(at 40.64 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8625,7 +8708,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 44.45 182.88 0)
+			(at 44.45 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8634,7 +8717,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 187.96 90)
+			(at 39.37 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8643,7 +8726,7 @@
 			)
 		)
 		(property "Description" "Resistor, Horizontal"
-			(at 39.37 187.96 0)
+			(at 39.37 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8658,9 +8741,13 @@
 			(uuid "e657362c-874c-41d9-b0f0-53a3fd7e8d28")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "R44")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -8668,7 +8755,7 @@
 	)
 	(symbol
 		(lib_id "BCA Symbol Library:R")
-		(at 233.68 143.51 90)
+		(at 217.17 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8676,7 +8763,7 @@
 		(dnp no)
 		(uuid "d2b12a33-cd05-4fe5-862e-d47f531a0536")
 		(property "Reference" "R15"
-			(at 234.95 142.24 90)
+			(at 218.44 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8685,7 +8772,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 234.95 144.78 90)
+			(at 218.44 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8694,7 +8781,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 238.76 138.43 0)
+			(at 222.25 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8703,7 +8790,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 233.68 143.51 90)
+			(at 217.17 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8712,7 +8799,7 @@
 			)
 		)
 		(property "Description" "Resistor, Horizontal"
-			(at 233.68 143.51 0)
+			(at 217.17 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8727,7 +8814,11 @@
 			(uuid "6a113e7c-0d56-4d70-8fb5-8ebbb590b82d")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R15")
 					(unit 1)
@@ -8737,15 +8828,15 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:R")
-		(at 39.37 177.8 90)
+		(at 39.37 176.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d69ba5f9-450d-43e1-856f-424feef2559b")
-		(property "Reference" "R43"
-			(at 40.64 176.53 90)
+		(property "Reference" "R16"
+			(at 40.64 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8754,7 +8845,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 40.64 179.07 90)
+			(at 40.64 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8763,7 +8854,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 44.45 172.72 0)
+			(at 44.45 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8772,7 +8863,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 177.8 90)
+			(at 39.37 176.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8781,7 +8872,7 @@
 			)
 		)
 		(property "Description" "Resistor, Horizontal"
-			(at 39.37 177.8 0)
+			(at 39.37 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8796,9 +8887,13 @@
 			(uuid "d7741fdd-9424-43ae-b963-f7d9cb693cf1")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "R43")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -8814,7 +8909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d864ed6a-dc5a-4cf7-86b2-0a958b9c7a52")
-		(property "Reference" "C11"
+		(property "Reference" "C8"
 			(at 163.322 89.154 0)
 			(effects
 				(font
@@ -8866,9 +8961,13 @@
 			(uuid "9cc500b6-65c1-4a36-93b2-562e55a6e72f")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "C?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "C11")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8876,7 +8975,7 @@
 	)
 	(symbol
 		(lib_id "BCA Symbol Library:R")
-		(at 224.79 143.51 90)
+		(at 208.28 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8884,7 +8983,7 @@
 		(dnp no)
 		(uuid "d8fa7c61-341b-476e-9c85-2c06ebd28436")
 		(property "Reference" "R14"
-			(at 226.06 142.24 90)
+			(at 209.55 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8893,7 +8992,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 226.06 144.78 90)
+			(at 209.55 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8902,7 +9001,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 229.87 138.43 0)
+			(at 213.36 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8911,7 +9010,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 143.51 90)
+			(at 208.28 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8920,7 +9019,7 @@
 			)
 		)
 		(property "Description" "Resistor, Horizontal"
-			(at 224.79 143.51 0)
+			(at 208.28 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8935,7 +9034,11 @@
 			(uuid "d5d075ad-a8e3-4087-90e9-e99d05950951")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R14")
 					(unit 1)
@@ -9002,7 +9105,11 @@
 			(uuid "190c67b7-f373-4b1c-bb0b-0b61a4d24b87")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R12")
 					(unit 1)
@@ -9021,7 +9128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbe2ea71-1319-4932-b121-5db14cf4e71b")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR07"
 			(at 154.94 101.6 0)
 			(effects
 				(font
@@ -9070,9 +9177,13 @@
 			(uuid "5b5f5dda-3085-4ef7-856c-8dfb4490a99b")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR010")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -9081,13 +9192,13 @@
 	(symbol
 		(lib_id "Analog_Switch:DG412xY")
 		(at 93.98 86.36 0)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "dda07843-bccd-4545-8fa0-6e30f340d9c8")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 93.98 82.55 0)
 			(effects
 				(font
@@ -9181,10 +9292,14 @@
 			(uuid "1fb1ddc1-c55a-434b-8aa0-be8d64aab801")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "U?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "U2")
-					(unit 3)
+					(reference "U1")
+					(unit 1)
 				)
 			)
 		)
@@ -9198,7 +9313,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dff45a30-9e9f-48e2-b0a0-be5e1c50066b")
-		(property "Reference" "R17"
+		(property "Reference" "R5"
 			(at 78.74 90.17 90)
 			(effects
 				(font
@@ -9250,9 +9365,13 @@
 			(uuid "1cf2f976-579d-4847-a50b-0b48c87f4a74")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "R17")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -9319,7 +9438,11 @@
 			(uuid "9410dacd-9d5e-42ea-babd-aecc0feef590")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "R?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "R11")
 					(unit 1)
@@ -9329,15 +9452,15 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 212.09 161.29 0)
+		(at 195.58 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "eeaaccf5-750f-4488-b306-b33dbd480d75")
-		(property "Reference" "#PWR017"
-			(at 212.09 167.64 0)
+		(property "Reference" "#PWR011"
+			(at 195.58 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9346,7 +9469,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 212.09 165.1 0)
+			(at 195.58 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9355,7 +9478,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 161.29 0)
+			(at 195.58 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9364,7 +9487,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 161.29 0)
+			(at 195.58 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9373,7 +9496,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 212.09 161.29 0)
+			(at 195.58 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9385,9 +9508,13 @@
 			(uuid "dc7c5359-6ebc-4dc2-b2ab-e4246b18daad")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR017")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -9459,7 +9586,11 @@
 			(uuid "67e61faf-5f35-4c28-b2f3-a42fce67bb7e")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "Q?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "Q2")
 					(unit 1)
@@ -9531,7 +9662,11 @@
 			(uuid "46f564a3-e311-4484-a61b-15be8b5f94e3")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "RV?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
 					(reference "RV1")
 					(unit 1)
@@ -9541,15 +9676,15 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead_Small")
-		(at 26.67 172.72 90)
+		(at 26.67 171.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f558edc0-0f7f-4dd1-9e40-db733b7159e5")
-		(property "Reference" "FB3"
-			(at 26.67 169.672 90)
+		(property "Reference" "FB2"
+			(at 26.67 168.402 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9557,7 +9692,7 @@
 			)
 		)
 		(property "Value" "FerriteBead_Small"
-			(at 26.6319 168.91 90)
+			(at 26.6319 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9566,7 +9701,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 26.67 174.498 90)
+			(at 26.67 173.228 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9575,7 +9710,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 26.67 172.72 0)
+			(at 26.67 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9584,7 +9719,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead, small symbol"
-			(at 26.67 172.72 0)
+			(at 26.67 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9599,9 +9734,13 @@
 			(uuid "b9ce9d32-afe7-464b-8c51-d90531f56730")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "FB?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "FB3")
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -9617,7 +9756,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f7211413-58c2-4229-b2e8-f0a14e16c8bf")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 172.974 78.486 0)
 			(effects
 				(font
@@ -9687,9 +9826,13 @@
 			(uuid "01f9fc26-6e0a-407b-a883-2bfea56129a4")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "U?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "U1")
+					(reference "U2")
 					(unit 2)
 				)
 			)
@@ -9697,15 +9840,15 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 62.23 194.31 0)
+		(at 62.23 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ff0bf2d0-5e13-438d-bf4b-d94ef25b2e86")
-		(property "Reference" "#PWR014"
-			(at 62.23 200.66 0)
+		(property "Reference" "#PWR015"
+			(at 62.23 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9714,7 +9857,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 62.23 198.12 0)
+			(at 62.23 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9723,7 +9866,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 194.31 0)
+			(at 62.23 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9732,7 +9875,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 194.31 0)
+			(at 62.23 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9741,7 +9884,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 62.23 194.31 0)
+			(at 62.23 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9753,12 +9896,22 @@
 			(uuid "d2df7e1f-f642-404b-aed0-02b6557ef2d7")
 		)
 		(instances
-			(project ""
+			(project "zendrive"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
+					(reference "#PWR?")
+					(unit 1)
+				)
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/04ae03a0-136b-4c60-aed5-23a9e7c56e8c"
-					(reference "#PWR014")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
