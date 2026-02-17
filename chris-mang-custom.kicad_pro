@@ -621,7 +621,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "riley-penny-custom.kicad_pro",
+    "filename": "chris-mang-custom.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -803,7 +803,7 @@
     ],
     [
       "9430560e-7187-498b-ab45-34444316d95c",
-      "blues-driver"
+      "bluesbreaker"
     ]
   ],
   "text_variables": {}
