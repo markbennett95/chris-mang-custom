@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 25,
-    "active_layer_preset": "Relevant Layers",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -57,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "riley-penny-custom.kicad_prl",
+    "filename": "chris-mang-custom.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
