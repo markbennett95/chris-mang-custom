@@ -3603,7 +3603,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
 			(at 127 142.24 0)
 			(effects
 				(font
@@ -3721,7 +3721,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3207067c-f3c9-43b7-8655-e13144e1a353")
+		(uuid "3762cfa4-9867-4b31-a5d0-5035584c5800")
 		(property "Reference" "R3"
 			(at 131.064 146.05 90)
 			(effects
@@ -3740,7 +3740,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
 			(at 134.62 142.24 0)
 			(effects
 				(font
@@ -3768,13 +3768,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "9185a2d3-2fb3-400a-b17b-657f25e04bab")
+			(uuid "bb494b4c-9cc9-4946-9e99-adcf94738f06")
 		)
 		(pin "1"
-			(uuid "c1576632-3ec9-4705-b7c2-ac33ad232ebc")
+			(uuid "e8fd3744-6f2d-4243-89a5-553ea3a92cf6")
 		)
 		(instances
-			(project "riley-penny-custom"
+			(project "chris-mang-custom"
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda"
 					(reference "R3")
 					(unit 1)
