@@ -2934,7 +2934,7 @@
 	)
 	(text "+"
 		(exclude_from_sim no)
-		(at 140.97 89.916 0)
+		(at 140.97 91.186 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2943,7 +2943,7 @@
 		(uuid "941fe946-f644-48ee-80d2-b28737c1f229")
 	)
 	(junction
-		(at 140.97 91.44)
+		(at 140.97 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04bcbcf0-35c0-4ef5-a26f-def8c42f261d")
@@ -2967,12 +2967,6 @@
 		(uuid "17ca6959-70f7-49a5-9382-a255c75d91a8")
 	)
 	(junction
-		(at 190.5 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "24ea0399-c32f-4b7b-834e-620c790b473f")
-	)
-	(junction
 		(at 59.69 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2983,6 +2977,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c1809cf-3906-4d0a-ac61-458b6781d1ca")
+	)
+	(junction
+		(at 172.72 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32d7f1cf-3941-4cf0-ae87-d63e60281043")
 	)
 	(junction
 		(at 49.53 31.75)
@@ -3045,7 +3045,7 @@
 		(uuid "6a8086ca-b8c3-4f1c-95e9-b34091631987")
 	)
 	(junction
-		(at 185.42 90.17)
+		(at 185.42 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a9f2807-6c89-4578-896f-7771655ec676")
@@ -3147,13 +3147,19 @@
 		(uuid "d03fb4f4-6ad9-4f9b-8546-e0b0d0c83f6e")
 	)
 	(junction
+		(at 190.5 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6d5aa95-a3c3-4e77-a6de-38f53eb01223")
+	)
+	(junction
 		(at 212.09 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd45573c-67d8-4b4c-9bad-19ddc5668ad6")
 	)
 	(junction
-		(at 172.72 97.79)
+		(at 172.72 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df4aed3c-1ff1-4d46-a77e-f58fa8611bb6")
@@ -3177,6 +3183,12 @@
 		(uuid "e96e9483-6488-4065-8eaa-c822c69585b6")
 	)
 	(junction
+		(at 190.5 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea7130c6-baf0-4a78-a4fc-e8450da862cb")
+	)
+	(junction
 		(at 229.87 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3189,7 +3201,7 @@
 		(uuid "ef63fa6e-74f8-437a-ac0d-3c1d714fae47")
 	)
 	(junction
-		(at 149.86 97.79)
+		(at 149.86 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1863797-2212-4957-938a-b07feaac5cba")
@@ -3236,7 +3248,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 99.06) (xy 140.97 91.44)
+			(xy 140.97 100.33) (xy 140.97 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3336,7 +3348,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 96.52) (xy 149.86 97.79)
+			(xy 149.86 97.79) (xy 149.86 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3356,7 +3368,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 91.44) (xy 132.08 91.44)
+			(xy 130.81 92.71) (xy 132.08 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3426,6 +3438,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 92.71) (xy 172.72 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21bdd5c3-afbf-4669-8d3a-8697541604ad")
+	)
+	(wire
+		(pts
 			(xy 224.79 71.12) (xy 229.87 71.12)
 		)
 		(stroke
@@ -3466,7 +3488,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 90.17) (xy 172.72 90.17)
+			(xy 176.53 85.09) (xy 172.72 85.09)
 		)
 		(stroke
 			(width 0)
@@ -3516,7 +3538,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 102.87) (xy 172.72 102.87)
+			(xy 173.99 104.14) (xy 172.72 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3566,7 +3588,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 85.09) (xy 149.86 86.36)
+			(xy 149.86 86.36) (xy 149.86 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3586,7 +3608,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 100.33) (xy 189.23 100.33)
+			(xy 190.5 101.6) (xy 189.23 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3656,7 +3678,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 90.17) (xy 190.5 100.33)
+			(xy 190.5 85.09) (xy 190.5 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3726,7 +3748,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 90.17) (xy 185.42 90.17)
+			(xy 184.15 85.09) (xy 185.42 85.09)
 		)
 		(stroke
 			(width 0)
@@ -3786,6 +3808,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 92.71) (xy 190.5 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c2090c5-a246-4cc0-a076-858d8093a9b4")
+	)
+	(wire
+		(pts
 			(xy 166.37 54.61) (xy 166.37 62.23)
 		)
 		(stroke
@@ -3796,7 +3828,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 91.44) (xy 142.24 91.44)
+			(xy 140.97 92.71) (xy 142.24 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3846,7 +3878,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 91.44) (xy 139.7 91.44)
+			(xy 140.97 92.71) (xy 139.7 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3856,7 +3888,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 78.74) (xy 190.5 90.17)
+			(xy 190.5 78.74) (xy 190.5 85.09)
 		)
 		(stroke
 			(width 0)
@@ -3886,7 +3918,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 97.79) (xy 154.94 97.79)
+			(xy 149.86 99.06) (xy 154.94 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4196,6 +4228,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 92.71) (xy 176.53 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "856e704e-b392-451b-b049-f32a38455e7b")
+	)
+	(wire
+		(pts
 			(xy 240.03 81.28) (xy 238.76 81.28)
 		)
 		(stroke
@@ -4223,6 +4265,16 @@
 			(type default)
 		)
 		(uuid "88f74278-5545-4c6b-85d3-2364fdc0ab7b")
+	)
+	(wire
+		(pts
+			(xy 184.15 92.71) (xy 190.5 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e6b2d52-3e22-4350-a5aa-418eb397b007")
 	)
 	(wire
 		(pts
@@ -4316,7 +4368,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 97.79) (xy 171.45 97.79)
+			(xy 172.72 99.06) (xy 171.45 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4326,7 +4378,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 97.79) (xy 149.86 99.06)
+			(xy 149.86 99.06) (xy 149.86 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4386,7 +4438,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 102.87) (xy 172.72 106.68)
+			(xy 172.72 104.14) (xy 172.72 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4466,7 +4518,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 90.17) (xy 190.5 90.17)
+			(xy 185.42 85.09) (xy 190.5 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4546,7 +4598,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 90.17) (xy 172.72 97.79)
+			(xy 172.72 85.09) (xy 172.72 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4556,7 +4608,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 93.98) (xy 185.42 93.98)
+			(xy 180.34 88.9) (xy 185.42 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4686,7 +4738,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 97.79) (xy 163.83 97.79)
+			(xy 162.56 99.06) (xy 163.83 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4826,7 +4878,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 93.98) (xy 185.42 90.17)
+			(xy 185.42 88.9) (xy 185.42 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4946,7 +4998,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 97.79) (xy 173.99 97.79)
+			(xy 172.72 99.06) (xy 173.99 99.06)
 		)
 		(stroke
 			(width 0)
@@ -5045,7 +5097,7 @@
 		(uuid "4749049e-ee44-4857-8cbc-71f680c336d2")
 	)
 	(label "9V"
-		(at 149.86 85.09 0)
+		(at 149.86 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5065,7 +5117,7 @@
 		(uuid "50cbec01-c3e2-41b0-b058-6baa4cb62583")
 	)
 	(label "4.5V"
-		(at 172.72 106.68 270)
+		(at 172.72 107.95 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5085,7 +5137,7 @@
 		(uuid "63690926-dc9a-4040-8e47-4c67d15dd515")
 	)
 	(label "4.5V"
-		(at 140.97 106.68 270)
+		(at 140.97 107.95 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5105,7 +5157,7 @@
 		(uuid "7107014d-2909-4baf-bd76-4b7ff8e2421a")
 	)
 	(label "sw7"
-		(at 49.53 24.13 180)
+		(at 49.53 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5205,7 +5257,7 @@
 		(uuid "caece981-42ab-452f-894e-f2fe5264a474")
 	)
 	(label "sw2"
-		(at 49.53 30.48 180)
+		(at 49.53 24.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5267,7 +5319,7 @@
 	)
 	(hierarchical_label "send"
 		(shape input)
-		(at 130.81 91.44 180)
+		(at 130.81 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5580,7 +5632,7 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:R")
-		(at 149.86 102.87 90)
+		(at 149.86 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5588,7 +5640,7 @@
 		(dnp no)
 		(uuid "17b720f9-3ba0-45e7-b5e8-46ad97eacb8b")
 		(property "Reference" "R40"
-			(at 151.384 101.6 90)
+			(at 151.384 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5597,7 +5649,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 151.384 104.14 90)
+			(at 151.384 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5606,7 +5658,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 154.94 97.79 0)
+			(at 154.94 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5615,7 +5667,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 102.87 90)
+			(at 149.86 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5624,7 +5676,7 @@
 			)
 		)
 		(property "Description" "Resistor, Horizontal"
-			(at 149.86 102.87 0)
+			(at 149.86 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5955,7 +6007,7 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:R")
-		(at 140.97 102.87 90)
+		(at 140.97 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5963,7 +6015,7 @@
 		(dnp no)
 		(uuid "24ec7020-f29c-477b-b27c-02a6bf9e1ce9")
 		(property "Reference" "R39"
-			(at 142.494 101.6 90)
+			(at 142.494 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5972,7 +6024,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 142.494 104.14 90)
+			(at 142.494 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5981,7 +6033,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 146.05 97.79 0)
+			(at 146.05 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5990,7 +6042,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 102.87 90)
+			(at 140.97 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5999,7 +6051,7 @@
 			)
 		)
 		(property "Description" "Resistor, Horizontal"
-			(at 140.97 102.87 0)
+			(at 140.97 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6471,7 +6523,8 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:R")
-		(at 30.48 69.85 90)
+		(at 30.48 69.85 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6479,7 +6532,7 @@
 		(dnp no)
 		(uuid "3cafe441-abcf-4fc6-beb6-a6ba4084f35c")
 		(property "Reference" "R19"
-			(at 32.004 68.58 90)
+			(at 28.956 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6488,7 +6541,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 32.004 71.12 90)
+			(at 28.956 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6497,7 +6550,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 35.56 64.77 0)
+			(at 25.4 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6877,7 +6930,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TLV9302xD")
-		(at 181.61 100.33 0)
+		(at 181.61 101.6 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6886,7 +6939,7 @@
 		(dnp no)
 		(uuid "4e113b4a-aead-439a-bdb0-5a839b9169a9")
 		(property "Reference" "U4"
-			(at 182.626 96.266 0)
+			(at 182.626 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6894,7 +6947,7 @@
 			)
 		)
 		(property "Value" "TLV9352"
-			(at 184.912 104.394 0)
+			(at 184.912 105.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6902,7 +6955,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 181.61 110.49 0)
+			(at 181.61 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6911,7 +6964,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9302.pdf"
-			(at 181.61 91.44 0)
+			(at 181.61 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6920,7 +6973,7 @@
 			)
 		)
 		(property "Description" "40-V, 1-MHz, RRO Operational Amplifiers for Cost-Sensitive Systems, SOIC-8"
-			(at 181.61 100.33 0)
+			(at 181.61 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6963,7 +7016,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:Q_NPN_BEC")
-		(at 147.32 91.44 0)
+		(at 147.32 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6971,7 +7024,7 @@
 		(dnp no)
 		(uuid "4eec962d-81b6-4258-b3e6-f3970d1f22af")
 		(property "Reference" "Q6"
-			(at 151.638 88.9 0)
+			(at 151.638 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6980,7 +7033,7 @@
 			)
 		)
 		(property "Value" "BC848C"
-			(at 151.638 91.44 0)
+			(at 151.638 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6989,7 +7042,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
-			(at 152.4 88.9 0)
+			(at 152.4 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6998,7 +7051,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.32 91.44 0)
+			(at 147.32 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7007,7 +7060,7 @@
 			)
 		)
 		(property "Description" "NPN transistor, base/emitter/collector"
-			(at 147.32 91.44 0)
+			(at 147.32 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7016,7 +7069,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 147.32 91.44 0)
+			(at 147.32 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7025,7 +7078,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 147.32 91.44 0)
+			(at 147.32 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7278,7 +7331,7 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:CP_Audio")
-		(at 158.75 97.79 90)
+		(at 158.75 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7286,7 +7339,7 @@
 		(dnp no)
 		(uuid "5a7d3d22-4de8-4f7f-a894-87d373c7574b")
 		(property "Reference" "C29"
-			(at 158.75 94.488 90)
+			(at 158.75 95.758 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7347,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 158.75 101.346 90)
+			(at 158.75 102.616 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7302,7 +7355,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:CP_Radial_D4.0mm_P1.50mm"
-			(at 168.91 97.79 0)
+			(at 168.91 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7311,7 +7364,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 97.79 0)
+			(at 158.75 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7320,7 +7373,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, footprint sized for power rails"
-			(at 158.75 97.79 0)
+			(at 158.75 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7741,7 +7794,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 149.86 106.68 0)
+		(at 149.86 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7750,7 +7803,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c1ac601-52bd-4514-8baa-f634ae95feed")
 		(property "Reference" "#PWR022"
-			(at 149.86 113.03 0)
+			(at 149.86 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7759,7 +7812,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 149.86 111.76 0)
+			(at 149.86 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7768,7 +7821,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 106.68 0)
+			(at 149.86 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7777,7 +7830,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 106.68 0)
+			(at 149.86 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7786,7 +7839,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 149.86 106.68 0)
+			(at 149.86 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7823,7 +7876,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "150k"
 			(at 54.61 34.036 0)
 			(effects
 				(font
@@ -8140,6 +8193,75 @@
 			(project ""
 				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/9430560e-7187-498b-ab45-34444316d95c"
 					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "bca-symbols:C_Ceramic")
+		(at 180.34 92.71 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "850b74db-4b20-4461-a112-d6eb25a631a5")
+		(property "Reference" "C34"
+			(at 179.07 91.186 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100p"
+			(at 181.61 94.488 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "bca-footprints:C_Ceramic_L4.0mm_W2.5mm_P2.50mm"
+			(at 184.15 91.7448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 180.34 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 180.34 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1c4c9010-0412-4d3e-b6a2-db7984348fae")
+		)
+		(pin "1"
+			(uuid "41a85e2e-da4f-4911-9549-5eac8456cf8d")
+		)
+		(instances
+			(project "chris-mang-custom"
+				(path "/0931d4cd-bc79-4e0b-a395-63d6dc93deda/9430560e-7187-498b-ab45-34444316d95c"
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -8589,7 +8711,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "33k"
 			(at 54.61 26.416 0)
 			(effects
 				(font
@@ -8777,7 +8899,7 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:R")
-		(at 167.64 97.79 0)
+		(at 167.64 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8785,7 +8907,7 @@
 		(dnp no)
 		(uuid "ae6ba506-7618-43a7-ba51-3bc433ff4384")
 		(property "Reference" "R41"
-			(at 167.64 95.504 0)
+			(at 167.64 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8793,7 +8915,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 167.64 100.076 0)
+			(at 167.64 101.346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8801,7 +8923,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_L3.6mm_D1.6mm_P5.00mm_Horizontal"
-			(at 172.72 102.87 0)
+			(at 172.72 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8810,7 +8932,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 97.79 90)
+			(at 167.64 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8819,7 +8941,7 @@
 			)
 		)
 		(property "Description" "Resistor, Horizontal"
-			(at 167.64 97.79 0)
+			(at 167.64 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9063,7 +9185,7 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:R_POT")
-		(at 180.34 90.17 270)
+		(at 180.34 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9071,7 +9193,7 @@
 		(dnp no)
 		(uuid "bd4be025-6fbf-4def-bc5e-1e822b49be27")
 		(property "Reference" "RV9"
-			(at 180.34 85.598 90)
+			(at 180.34 80.518 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9079,7 +9201,7 @@
 			)
 		)
 		(property "Value" "100kA"
-			(at 180.34 87.63 90)
+			(at 180.34 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9087,7 +9209,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:R_POT"
-			(at 180.34 82.55 90)
+			(at 180.34 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9096,7 +9218,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 96.52 90)
+			(at 185.42 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9105,7 +9227,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 180.34 90.17 0)
+			(at 180.34 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10409,7 +10531,7 @@
 	)
 	(symbol
 		(lib_id "bca-symbols:C_Film_W2.50mm")
-		(at 135.89 91.44 90)
+		(at 135.89 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10417,7 +10539,7 @@
 		(dnp no)
 		(uuid "f8c3cb91-9c4b-40f5-a94a-7fbefbe20900")
 		(property "Reference" "C28"
-			(at 135.89 88.138 90)
+			(at 135.89 89.408 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10425,7 +10547,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at 135.89 94.742 90)
+			(at 135.89 96.012 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10433,7 +10555,7 @@
 			)
 		)
 		(property "Footprint" "bca-footprints:C_Film_L7.2mm_W2.5mm_P5.00mm"
-			(at 139.7 90.4748 0)
+			(at 139.7 91.7448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10442,7 +10564,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 91.44 0)
+			(at 135.89 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10451,7 +10573,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 135.89 91.44 0)
+			(at 135.89 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
