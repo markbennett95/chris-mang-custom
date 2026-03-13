@@ -8156,7 +8156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bca-footprints:C_Film_L7.2mm_W3.5mm_P5.00mm"
+		(property "Footprint" "bca-footprints:C_Film_L7.2mm_W5.00mm_P5.00mm"
 			(at 175.26 53.6448 0)
 			(effects
 				(font
@@ -8711,7 +8711,7 @@
 				)
 			)
 		)
-		(property "Value" "33k"
+		(property "Value" "39k"
 			(at 54.61 26.416 0)
 			(effects
 				(font
